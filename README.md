@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Vítor Peçanha!👋</h2>
 <img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611ccc66c07ff1a0f73cf4bd99b681fdb781c4df37d&rid=giphy.gif" width="250">
-<p><em>Principal Engineer at <a href="https://docs.openbank.stone.com.br/">Banking Stone</a><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30">
+<p><em>Engineer Manager in Credit Area at <a href="https://docs.openbank.stone.com.br/">Banking Stone</a><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30">
 
 <a href="mailto:gpecanha.vitor.code@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="63"/>
 [![Linkedin](https://img.shields.io/badge/-vitorpecanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorpecanha/)](https://www.linkedin.com/in/vitorpecanha/)
