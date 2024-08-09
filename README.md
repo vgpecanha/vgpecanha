@@ -15,12 +15,12 @@ var vitor_pecanha = new
     askMeAbout = new string[5] { "backend developer", "tech", "IT management", "boardgamer", "travel" },
     technologies = new
     {
-      languages = new string[4] { "C#", ".netFramework", ".net core", ".net 6" },
+      languages = new string[4] { "C#", ".netFramework", ".net core", ".net 6", "golang" },
       devOps = new string[4] { "AzureDevops", "CircleCI", "Docker", "Kubernetes" },
-      databases = new string[2] { "MongoDB", "SqlServer" },
+      databases = new string[2] { "MongoDB", "SqlServer", "Redis", "DynamoDB" },
       qa = new string[5] { "TDD", "LoadTests", "StressTests", "Sonarqube", "JMeter" },
-      dashboards_logging = new string[2] { "Kibana", "Splunk" },
-      misc = new string[5] { "MS Azure", "RabbitMQ", "Redis", "Azure Service Bus", "Elastic Search" }
+      observability = new string[2] { "DataDog", "NewRelic", "Splunk" },
+      misc = new string[5] { "MS Azure", "RabbitMQ", "Azure Service Bus", "Elastic Search", "s3", "SQS", "SNS" }
     },
     architecture = new string[3] { "Microservice", "CQRS", "Monolithic" },
     patterns = new string[5] { "SOLID", "OO", "Design Patterns", "DDD", "Event Sourcing" },
